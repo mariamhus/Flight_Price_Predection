@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import sklearn
 import xgboost
-import category_encoders
 import joblib
 
 model = joblib.load("Final_Model.pkl")
