@@ -1,0 +1,67 @@
+●     
+you are supposed to implement end to end data science
+project in which you do the following tasks:
+
+
+1- The full EDA process
+in which you must  :
+
+
+1.    investigate each feature type and values (univariate
+analysis )
+
+
+2.    investigate the relationship between features (bivariate /
+multivariate analysis )
+
+
+3.    clean your data to be properly analyzed.
+
+
+4.    create business questions which can be answered through
+the analysis of data and answer it through numbers and visualization.
+
+
+ 
+
+
+2- Data Preparation
+process for machine learning Regression task , in which you must :
+
+
+1.    Deal with missing data if any.
+
+
+2.    Deal with outliers if any.
+
+
+3.    Feature Engineering.
+
+
+4.    Encode your categorical features with the appropriate type
+of encoding if needed.
+
+
+5.    Feature scaling if needed.
+
+
+Note, there is no
+meaning for the order in the previous steps , do the process in the appropriate
+order from your point of view.
+
+
+ 
+
+
+3-Machine Learning Modeling:
+
+
+1.    You need to build a Regression model which will Predict the Price of the airline flights
+
+
+4- Deploy your model using streamlit cloud
+
+1 - Video in which you explain every thing realted to your work.
+2 - Your notebook that has all the detailed work.
+3 - .py file by which you deploy your model.
+4 - The public streamlit cloud link to check your project working
